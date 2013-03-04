@@ -1,7 +1,8 @@
 {
 	"name": "kenvunz/laravel-theme",
 	"require": {
-		"laravel/framework": "4.0.*"
+		"laravel/framework": "4.0.*@dev",
+		"kenvunz/laravel-theme-core": "dev-master"
 	},
 	"autoload": {
 		"classmap": [
