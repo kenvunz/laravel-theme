@@ -1,7 +1,7 @@
 {
 	"name": "kenvunz/laravel-theme",
 	"require": {
-		"laravel/framework": "v4.0.0-BETA3",
+		"laravel/framework": "v4.0.0-BETA3"
 		"kenvunz/laravel-theme-core": "dev-master"
 	},
 	"autoload": {
@@ -13,5 +13,7 @@
 			"app/database/seeds",
 			"app/tests/TestCase.php"
 		]
-	}
+	},
+
+	"minimum-stability": "dev"
 }
