@@ -1,4 +1,5 @@
 {
+	"name": "kenvunz/laravel-theme",
 	"require": {
 		"laravel/framework": "4.0.*"
 	},
