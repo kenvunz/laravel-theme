@@ -13,6 +13,5 @@
 			"app/database/seeds",
 			"app/tests/TestCase.php"
 		]
-	},
-	"minimum-stability": "dev"
+	}
 }
