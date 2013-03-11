@@ -3,8 +3,7 @@
 	"license": "proprietary",
 	"description": "Turn Laravel 4 framework into Wordpress parent theme",
 	"require": {
-		"laravel/framework": "v4.0.0-BETA3",
-		"kenvunz/laravel-theme-core": "dev-master"
+		"laravel/framework": "v4.0.0-BETA3"
 	},
 	"autoload": {
 		"classmap": [
